@@ -1,0 +1,15 @@
+# editor
+.idea
+.vscode
+.project
+.favorites.json
+.settings/
+.vs/
+
+# tool
+.cargo
+
+# build
+/target
+
+

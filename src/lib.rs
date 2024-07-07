@@ -1,0 +1,11 @@
+#![allow(dead_code)]
+#![allow(unused_imports)]
+
+mod p0509_fibonacci_number;
+mod p2266_count_number_of_texts;
+mod p2316_count_unreachable_pairs_of_nodes_in_an_undirected_graph;
+mod p2284_sender_with_largest_word_count;
+mod p2250_count_number_of_rectangles_containing_each_point;
+mod p2661_first_completely_painted_row_or_column;
+mod p2600_k_items_with_the_maximum_sum;
+mod p2516_take_k_of_each_character_from_left_and_right;
